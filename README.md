@@ -1,4 +1,7 @@
 ### Hi there 👋
+I have worked as Software Developer Intern at HaltDos Pvt. Ltd. 
+Following is my daily.dev card 
+ <a href="https://app.daily.dev/inderpreetsingh"><img src="https://api.daily.dev/devcards/02314e441d3b402ab8c11d75f4f15001.png?r=7zd" width="400" alt="Inderpreet Singh's Dev Card"/></a>
 
 <!--
 **inderpreet2025/inderpreet2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
